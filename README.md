@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![hyp3r5pace's github stats](https://github-readme-stats.vercel.app/api?username=hyp3r5pace)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **hyp3r5pace/hyp3r5pace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
