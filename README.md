@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![hyp3r5pace's github stats](https://github-readme-stats.vercel.app/api?username=hyp3r5pace&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=hyp3r5pace)](https://github.com/anuraghazra/github-readme-stats)
+[![hyp3r5pace's github stats](https://github-readme-stats.vercel.app/api?username=hyp3r5pace&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title="hyp3r5pace's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
