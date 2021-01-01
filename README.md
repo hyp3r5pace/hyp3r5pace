@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Soumyajit Deb. I also go by the alias *hyp3r5pace* or *hyp3r5pac3* on the internet. I play [CTF](https://ctfd.io/whats-a-ctf/) and enjoy capturing 🚩
+I am Soumyajit Deb. I also go by the alias **hyp3r5pace** or **hyp3r5pac3** on the internet. I play [CTF](https://ctfd.io/whats-a-ctf/) and enjoy capturing 🚩
 
 👨‍💻 Current interests:
 
