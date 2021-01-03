@@ -23,6 +23,7 @@ Contact: Mail me at [debsoumyajit100@gmail.com](mailto:debsoumyajit100@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyp3r5pace&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=hyp3r5pace&color=brightgreen&style=flat)
 
 <!--
 **hyp3r5pace/hyp3r5pace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
