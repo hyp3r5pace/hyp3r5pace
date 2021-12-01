@@ -10,7 +10,7 @@ I am Soumyajit Deb. I also go by the alias **hyp3r5pace** or **hyp3r5pac3** on t
 - Compilers
 - Programming language theory
 - Mathematics (nothing specific for now)
-- Machine learning
+- Blockchain/ web3/ defi
 
 I love contributing to open source projects and always excited about making valuable contributions.
 
