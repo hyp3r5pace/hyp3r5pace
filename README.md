@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-I am Soumyajit Deb. I also go by the alias **hyp3r5pace** or **hyp3r5pac3** on the internet. I play [CTF](https://ctfd.io/whats-a-ctf/) and enjoy capturing 🚩
+I am Soumyajit Deb. I also go by the alias **hyp3r5pace** or **hyp3r5pac3** on the internet.
 
 👨‍💻 Current interests:
 
+- Backend Development
+- Blockchain
 - Defi
 - Cryptography
 - Protocol Design
 - MEV
 - Smart contract security
 
-I love contributing to open source projects and always excited about making valuable contributions.
+I aim to write clean, concise and optimized code. I love contributing to open source projects and always excited about making valuable contributions.
 
 Contact: Mail me at [debsoumyajit100@gmail.com](mailto:debsoumyajit100@gmail.com)
 
