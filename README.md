@@ -4,7 +4,6 @@ I am Soumyajit Deb. I also go by the alias **hyp3r5pace** or **hyp3r5pac3** on t
 
 👨‍💻 Current interests:
 
-- Backend Development
 - Blockchain
 - Defi
 - Cryptography
