@@ -2,21 +2,9 @@
 
 I am Soumyajit Deb. I also go by the alias **hyp3r5pace** or **hyp3r5pac3** on the internet.
 
-👨‍💻 Current interests:
-
-- Blockchain
-- Defi
-- Cryptography
-- Protocol Design
-- MEV
-- Smart contract security
-
 I aim to write clean, concise and optimized code. I am always eager to work on interesting projects.
 
 Contact: Mail me at [debsoumyajit100@gmail.com](mailto:debsoumyajit100@gmail.com)
-
-[Personal website](https://hyp3r5pace.github.io/)
-
 
 [![hyp3r5pace's github stats](https://github-readme-stats.vercel.app/api?username=hyp3r5pace&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
